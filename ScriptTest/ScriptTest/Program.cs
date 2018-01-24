@@ -12,6 +12,7 @@ namespace ScriptTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Test");
+            Console.WriteLine("");
         }
     }
 }
